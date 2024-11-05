@@ -20,6 +20,7 @@ This dashboard analyses the adult income in the year 1994 of the male and female
 - Step 7 : The different countries were represented with a color from their flag.
 - Step 8 : The donut chart was used to represent the income more than 50k and less than 50k
 - Step 9 : I added a map to show the different countries and their locations and also used colors to represent them too.
+- Step 10: I put a reset button at the bottom to reset (ctrl + click) it to it's original form after the data has been explored
           
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
