@@ -23,5 +23,7 @@ This dashboard analyses the adult income in the year 1994 of the male and female
           
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+Screenshot of the dashboard
+![Screenshot 2024-11-04 235727](https://github.com/user-attachments/assets/4acbcc56-9a22-4a80-b10e-f973df910839)
 
         
