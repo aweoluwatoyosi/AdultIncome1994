@@ -12,7 +12,7 @@ This dashboard analyses the adult income in the year 1994 of the male and female
 
 ### Steps followed 
 
-- Step 1 : I got the dataset from an online site and cleaned up the dataset and also put the appropraite names for the different columns. I then loaded the data into Power BI Desktop, dataset is a csv file.
+- Step 1 : I got the dataset from an online site and cleaned up the dataset and also put the appropriate names for the different columns. I then loaded the data into Power BI Desktop, dataset is a csv file. I first cleaned the dataset by removing duplicate cells, trimmed the cells, formatted the colunms to the right data type, removed blank cells
 - Step 2 : I started the visualization by putting in card visualization into rectanglar shapes and representing it by capital gain, capital loss, final weight(census) and country.
 - Step 3 : I used a slicer for the gender visualization, age, race and country.
 - Step 4 : Clustered bar chart was used to represent the marital status and the hours they work per week.
